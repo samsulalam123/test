@@ -1,8 +1,1 @@
-/**
- * 
- */
-/**
- * @author DFG
- *
- */
 package testPackage;
